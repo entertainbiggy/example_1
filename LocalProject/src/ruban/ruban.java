@@ -1,3 +1,4 @@
+package ruban;
 
 public class ruban {
 	public static void main(String[] args) {
