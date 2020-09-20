@@ -1,4 +1,4 @@
-package anantharuban;
+package main.java;
 
 public class javanewfile {
 
